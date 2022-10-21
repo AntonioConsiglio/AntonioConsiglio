@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AntonioConsiglio
 - 👀 I’m interested in Computer Vision and AI
-- 🌱 I’m currently learning DeepLearning with Tensorflow
+- 🌱 Always learning more Deep Learning applied to Computer Vision  
+ @ Framework used: Tensorflow and Pythorch frameworks @
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
