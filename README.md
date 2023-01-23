@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision and AI
 - 🌱 Always learning more Deep Learning applied to Computer Vision  
  @ Framework used: Tensorflow and Pythorch frameworks @
-- 💞️ I’m looking to collaborate on ...
+- 💞️  I’m looking to collaborate on python projects
 - 📫 How to reach me ...
 
 <!---
