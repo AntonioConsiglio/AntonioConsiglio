@@ -12,8 +12,10 @@ I'm Antonio Consiglio, a passionate individual with a focus on Computer Vision a
 - Python Projects
 
 ## 🛠️ Technologies/Frameworks
+- Python / C++
 - PyTorch frameworks
-
+- ROS2
+  
 ## 🤝 Looking to Collaborate On
 I'm open to collaborating on exciting Python projects. If you have something interesting in mind, let's connect!
 
